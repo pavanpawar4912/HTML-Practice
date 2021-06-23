@@ -4,7 +4,8 @@
 	<title>Duck Hunt Game</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<body>
+<body onclick="document.getElementById('Sound1').play();">
+	<audio id ="Sound1" src="shoot.mp3" preload="auto"></audio>
 	<input type="checkbox" id="duck1">
 	<label for="duck" class="duck"></label>
 
