@@ -1,0 +1,23 @@
+<!DOCTYPE html> : Type Of Document.
+<head></head> : Used For Browser.
+<title></title> : Show On The Top Of The Page (Used For Search Engine)
+<body></body> : (Visible Part) / Paragraph...(For User)
+Element : paragraph,Link,Image,Video.{<TagName attribute1 ="Value" atribute2 = "Value">Content</TagName>}
+Atribute : Additional Info About Atribute(Perticular Information About Element)
+<img scr = "Path">
+<br> : Used For Line break(Next line).
+Comment Out : <!--Comment The Sentance -->
+Heading : <h1>Heading</h1>
+<hr> : (Horizantal rule) Used For Make Line.
+<p></p> : (Paragraph Tag)  Used In Paragraph.
+<pre></pre> : Used In Paragraph For Normal Writing.  
+<b></b> :  Used For Bold
+<strong></strong> : It Become Bold But It Store A vale And Make This Sentance Strong For Google Search.
+<i></i> : Italic Font.
+<em></em> : It Aslo Use For Italic Font But It Store Value For GooGle Search.
+<small></small> : Used For Make Word Small.
+<mark></mark> : Used  As High Lighter.
+<del></del> : Used For Delete.
+<ins></ins> : Underline.
+x<sup>2</sup> : X Square (x^2)
+x<sub>2</sub> : X2     
