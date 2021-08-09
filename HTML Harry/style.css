@@ -1,0 +1,15 @@
+
+.container{
+	width: 1300px;
+	height: 500px;
+	
+	background-image:  url('../Alone.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	color: white;
+	background-position:  center top;
+}
+.box{
+	background-color:  purple;
+	color: white;
+}
