@@ -1,0 +1,33 @@
+body{
+	background-image: url('../Tintin.jpg');
+}
+li{
+	margin: 0px;
+	padding: 19px;
+	display: inline-block;
+	color:  white;
+	font-size: 20px;
+}
+.logo{
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	position: relative;
+	top: 11px;
+	left:0px;
+}
+nav{
+	background-color: #ff8f00;
+	height: 12vh;
+	width: 100vw;
+	position: relative;
+	top: 0px;
+}
+.search{
+	float: right;
+	position: relative;
+	top: 20px;
+	height: 27px;
+	width: 870px;
+	left: -11px;
+}
